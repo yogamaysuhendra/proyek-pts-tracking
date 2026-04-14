@@ -29,3 +29,5 @@ npm start
 cd ../frontend
 npm install
 npm start
+
+Proyek ini dikembangkan oleh Yoga May Suhendra sebagai bagian dari Laporan Kerja Praktek di Universitas Pamulang.
